@@ -1,27 +1,26 @@
-# Projeto Caravan
+# 🚐 Projeto Caravan
 
-## Sobre o projeto
+## 📌 Sobre o projeto
 
-O projeto Caravan é uma aplicação web desenvolvida utilizando HTML, CSS e Bootstrap. O objetivo deste projeto é criar uma plataforma para gerenciar reservas de caravanas em parques de campismo.
+O **Projeto Caravan** é uma aplicação web desenvolvida com **HTML**, **CSS** e **Bootstrap**, criada para facilitar o **gerenciamento de reservas de caravanas** em parques de campismo. O foco do projeto é oferecer uma experiência simples, intuitiva e eficiente para os usuários.
 
-### Interface do projeto
+## 🛠️ Tecnologias utilizadas
 
-A interface do projeto Caravan é responsiva e foi desenvolvida para oferecer uma experiência agradável aos usuários. Utilizamos o Bootstrap para criar um layout moderno e responsivo. Alguns recursos da interface incluem:
+As seguintes tecnologias foram aplicadas no desenvolvimento do projeto:
 
-- **Menu de navegação**: O menu de navegação permite aos usuários navegar pelas diferentes seções do site, como "Reservas", "Parques" e "Contato".
+- 🌐 **HTML5** – Responsável pela estrutura e organização do conteúdo da aplicação.
+- 🎨 **CSS3** – Utilizado para estilização, layout e personalização visual da interface.
+- 🅱️ **Bootstrap** – Framework CSS que garante um design moderno, responsivo e compatível com diferentes dispositivos.
 
-- **Formulário de reserva**: O formulário de reserva permite aos usuários fazer reservas de caravanas em parques de campismo. Os usuários podem selecionar a caravana desejada, o período de estadia e fornecer informações pessoais.
+## 🎨 Interface do projeto
 
-- **Galeria de fotos**: A galeria de fotos permite aos usuários visualizar imagens das caravanas disponíveis para reserva.
+A interface do **Caravan** foi desenvolvida com foco em **responsividade** e **usabilidade**, proporcionando uma navegação agradável em desktops, tablets e smartphones. O **Bootstrap** foi essencial para criar um layout limpo, moderno e funcional. Entre os principais recursos da interface, destacam-se:
 
-- **Mapa interativo**: O mapa interativo permite aos usuários visualizar os parques de campismo disponíveis e filtrar por localização.
+- 🧭 **Menu de navegação**  
+  Facilita o acesso às principais seções do site, como **Reservas**, **Parques** e **Contato**.
 
-### Ícones
+- 📝 **Formulário de reserva**  
+  Permite que os usuários realizem reservas selecionando a caravana desejada, o período de estadia e informando seus dados pessoais de forma prática.
 
-Aqui estão alguns exemplos de como adicionar ícones ao texto:
-
-- ![Ícone de caravana](https://cdn.example.com/caravan-icon.png)
-- ![Ícone de parque de campismo](https://cdn.example.com/campsite-icon.png)
-- ![Ícone de calendário](https://cdn.example.com/calendar-icon.png)
-
-Você pode adicionar ícones personalizados ou utilizar bibliotecas de ícones, como Font Awesome, para adicionar ícones ao seu texto.
+- 🖼️ **Galeria de fotos**  
+  Apresenta imagens das caravanas disponíveis, auxiliando na escolha da melhor opção.
